@@ -1,23 +1,12 @@
-<<<<<<< HEAD
-=======
-# compiled output
-/dist
-/node_modules
-
->>>>>>> 56a21ba (first commit)
 # Logs
 logs
 *.log
 npm-debug.log*
-<<<<<<< HEAD
-=======
 pnpm-debug.log*
->>>>>>> 56a21ba (first commit)
 yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
-<<<<<<< HEAD
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
@@ -115,6 +104,8 @@ dist
 # TernJS port file
 .tern-port
 =======
+=======
+>>>>>>> 56a21ba (first commit)
 # OS
 .DS_Store
 
@@ -136,5 +127,9 @@ dist
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
+<<<<<<< HEAD
+!.vscode/extensions.json
+>>>>>>> 56a21ba (first commit)
+=======
 !.vscode/extensions.json
 >>>>>>> 56a21ba (first commit)
